@@ -14,7 +14,7 @@ _Disclaimer: I've gained most of my knowledge from Google searches._
 
 ### 👋 Helloooooooo. My name is Adrian. How are you today? 😀
 
-- 🔭 I'm currently working on a workspace application built w/ `Electron`, `Webpack`, `Tailwind`, and `Vue`.
+- 🔭 I'm currently working on random applications built w/ `Laravel`, `JetStream`, `TailwindCSS`, and `AlpineJS`.
 - 🌱 I'm currently learning how to `communicate effectly in a team setting`.
 - 🎮 I'm a `World of Warcraft` _casual player_ (hardcore raider in the past).
 - 👯 I'm looking to collaborate on any type of `PHP` or `JAM` stacked driven project.
