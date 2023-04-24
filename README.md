@@ -6,8 +6,6 @@
 
 #### Awesome Dad, Web Developer. Picky Eater.
 
-![Adrian Mejias](https://pbs.twimg.com/profile_banners/16708108/1382637819/1500x500)
-
 _Disclaimer: I've gained most of my knowledge from Google searches._
 
 ---
