@@ -1,6 +1,5 @@
-[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://bit.ly/adrian-mejias-twitter)
+[![Ask Me Anything](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://bit.ly/adrian-mejias-x)
 [![GitHub Followers](https://img.shields.io/github/followers/adrianmejias.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/adrianmejias?tab=followers)
-
 
 # ![@adrianmejias](https://avatars0.githubusercontent.com/u/1440288?s=25&v=4) Adrian - Web Developer Extraordinaire
 
