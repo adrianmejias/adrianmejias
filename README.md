@@ -24,6 +24,5 @@ _Disclaimer: I've gained most of my knowledge from Google searches._
 
 ### 💌 Get in touch
 
-- 🐦 @ me via x (fka twitter) [@itAdrianMejias](https://bit.ly/adrian-mejias-x)
 - 🔑 @ me via gmail/ghangouts [adrianmejias@gmail.com](https://hangouts.google.com)
 - 💜 Contact me for information or services at my [Personal Website](https://adrianmejias.com) or [LinkedIn](https://bit.ly/adrian-mejias-linkedin)
